@@ -1,4 +1,3 @@
-console.log('hello Everyone')
 
 function greet(name)
 {
