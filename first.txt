@@ -7,3 +7,6 @@ doubt
 
 Please enter a commit message to explain why this merge is necessary,
 # especially if it merges an updated upstream into a topic branch.
+ek branch mein changes kare par commit nahi kara
+phir ek nayi bramch khol ke kahi aur chnages karke commit kar dia, to usme purani branch ke bhi changes aa gaye
+phele ye ho gaya tha par ab nahi ho raha
